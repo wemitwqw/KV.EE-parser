@@ -1,6 +1,6 @@
 # KV.EE-parser
 
-navigate to root directory of the project
+navigate to the root directory of the project (terminal)
 
 run:
 ```sh
