@@ -2,14 +2,14 @@
 
 navigate to the root directory of the project (terminal)
 
-run:
+run (Windows Powershell):
 ```sh
-.\.venv\Scripts\activate
+(python -m venv .venv) -and (.\.venv\Scripts\Activate.ps1) -and (pip install -r requirements.txt)
 ```
 
-then run:
+run (Linux and MacOS):
 ```sh
-pip install -r requirements.txt
+python -m venv .venv && source .venv/Scripts/activate && pip install -r requirements.txt
 ```
 
 then run:
