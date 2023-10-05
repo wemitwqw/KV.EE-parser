@@ -4,7 +4,12 @@ navigate to the root directory of the project (terminal)
 
 run:
 ```sh
-(.\.venv\Scripts\activate) -and (pip install -r requirements.txt)
+.\.venv\Scripts\activate
+```
+
+then run:
+```sh
+pip install -r requirements.txt
 ```
 
 then run:
